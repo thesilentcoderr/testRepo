@@ -1,4 +1,4 @@
-# testRepo\
+# testRepo
 
 Create a vars.json file using this syntax\
 {\
@@ -10,4 +10,4 @@ Create a vars.json file using this syntax\
         "mysql_db": "DB_NAME",\
         "mysql_port": PORT_NO\
     }\
-}\
+}
